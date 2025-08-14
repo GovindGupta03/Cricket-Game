@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+.choice-image {
+    height: 185px;
+    width: 150px;
+}
+
+.reset {
+    font-size: 25px;
+    display: flex;
+    position: relative;
+    left: 720px;
+    top: 12px;
+    padding: 5px;
+}
