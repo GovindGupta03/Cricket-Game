@@ -3,7 +3,6 @@ Bat-Ball-Stump is a fun and interactive browser game where you compete against t
 🎮 How to Play
 
   Choose Bat, Ball, or Stump from the options.
-  Click Submit to lock your choice.
   The computer makes a random choice.
   The winner is decided using these rules:
   Bat beats Ball (Bat hits the ball),
